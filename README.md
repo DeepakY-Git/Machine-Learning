@@ -1,4 +1,4 @@
-# AI- Artificial Learning
+# AI- Artificial Learning Projects
 # Machine-Learning
 All the machine learning related 
 
