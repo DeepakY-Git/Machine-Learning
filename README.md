@@ -9,6 +9,6 @@
 
 # LLMs
 - Large Language Models
-- 
+- BERT
 # Gen AI Projects Start
 
