@@ -10,5 +10,6 @@
 # LLMs
 - Large Language Models
 - BERT
+- RAG
 # Gen AI Projects Start
 
