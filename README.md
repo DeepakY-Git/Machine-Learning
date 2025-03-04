@@ -12,4 +12,3 @@
 - BERT
 - RAG
 # Gen AI Projects Start
--
