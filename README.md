@@ -3,7 +3,7 @@
 # AI- Artificial Learning Projects
 # Machine-Learning
 - All the machine learning related 
-
+- Projects of ML
 # NLP Projects
 - Natural language Processing
 - NLTK
