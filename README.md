@@ -9,7 +9,6 @@
 - Natural language Processing
 - NLTK
   
-  
 # LLMs
 - Large Language Models
 - BERT
@@ -17,4 +16,4 @@
 - 
 # Gen AI Projects Start
 - Sentiment analysis
-  
+- 
